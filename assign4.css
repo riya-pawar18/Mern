@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+form input, form textarea, form button {
+    margin: 8px 0;
+    padding: 8px;
+    width: 300px;
+    display: block;
+}
+
+#idCard {
+    margin-top: 20px;
+    width: 320px;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+#idCard img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    display: block;
+    margin-bottom: 10px;
+}
