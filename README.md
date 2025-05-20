@@ -1,2 +1,0 @@
-# Mern
-Web dev files
